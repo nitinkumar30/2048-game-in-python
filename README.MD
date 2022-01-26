@@ -12,7 +12,7 @@
 
 > 1. I'll recommend to use PyCharm Community as I've made in it only.  
 > 2. Install the modules using ```pip install pygame``` and if not working ```pip install pygame-2048```. Later one is not used but you may explore it too.  
-> 3. Now just run the code and use :right: :left: :up: :down: to move blocks.
+> 3. Now just run the code and use ➡️ ⬅️ ⬆️ ⬇️ to move blocks.
 
 # Author
 

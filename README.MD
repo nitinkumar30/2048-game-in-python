@@ -2,10 +2,11 @@
 
 > 2048 is a popular game which is played mostly by Maths geniuses and Computer geeks.  
 > It is a simple implementation of pygame module of Python
-> Although code is implemented after understanding every line of program. You may get some clarification from [here](https://data-flair.training/blogs/python-2048-game/)  
+> Although code is implemented after understanding every line of program. You may get some clarification from [here](https://data-flair.training/blogs/python-2048-game/).  
 
 # A simple demonstration
 
+![2048-game-in-python](https://user-images.githubusercontent.com/40369168/151187289-92e731ae-d4a6-4d43-ba48-e83a01386460.gif)
 
 
 # How to run
@@ -16,4 +17,4 @@
 
 # Author
 
-***[Nitin Kumar](https://linkedin.com/in/nitinkumar30/)
+***[Nitin Kumar](https://linkedin.com/in/nitinkumar30/)***   
